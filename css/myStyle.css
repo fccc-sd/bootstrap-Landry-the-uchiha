@@ -1,0 +1,93 @@
+body 
+{
+	background-color: #360000; 
+	
+} 
+p
+{
+color: white; 
+}
+h4
+{
+color: white;
+}
+ul
+{
+color:white;
+
+}
+strong
+{
+color: gray;
+}
+	
+p a:link
+{
+text-decoration:none;	
+color:white;
+}
+p a:visited
+{
+	color:white;
+}
+p a:hover
+{
+text-decoration:underline;	
+}
+p a:active
+{
+color:white;
+text-decoration:underline;
+}
+nav 
+{
+background-color:gray;
+border-style: outset;  
+border-color:#645757;
+}
+nav a:link
+{
+color:#FFE6E6; 
+text-decoration:none;
+}
+nav a:visited
+{
+color:#FFE6E6; 
+}
+nav a:active
+{
+color:white;
+text-decoration:underline;
+} 
+
+ul li
+{
+	list-style-type: none; 
+}
+table
+{
+	border: solid  black;
+	border-collapse: collapse;
+	background-color:  #410202;
+	background-image: url(./images/nav.jpg);
+} 
+tr, tb, th
+{
+	border: solid  black;
+	text-align: center;
+	color: gray;
+}
+
+tr:hover
+{
+color: white;
+background-color: blue;
+}
+
+
+
+caption 
+{
+ caption-side: top; 
+ font-weight: bold;
+} 
